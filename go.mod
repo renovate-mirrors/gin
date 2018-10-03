@@ -7,7 +7,7 @@ require (
 	github.com/gin-gonic/autotls v0.0.0-20180426091246-be87bd5ef97b
 	github.com/golang/protobuf v1.2.0
 	github.com/jessevdk/go-assets v0.0.0-20160921144138-4f4301a06e15
-	github.com/json-iterator/go v0.0.0-20180806060727-1624edc4454b
+	github.com/json-iterator/go 1.1.5
 	github.com/manucorporat/stats v0.0.0-20180402194714-3ba42d56d227
 	github.com/mattn/go-isatty v0.0.3
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect

@@ -18,6 +18,7 @@ github.com/jessevdk/go-assets v0.0.0-20160921144138-4f4301a06e15 h1:cW/amwGEJK5M
 github.com/jessevdk/go-assets v0.0.0-20160921144138-4f4301a06e15/go.mod h1:Fdm/oWRW+CH8PRbLntksCNtmcCBximKPkVQYvmMl80k=
 github.com/json-iterator/go v0.0.0-20180806060727-1624edc4454b h1:X61dhFTE1Au92SvyF8HyAwdjWqiSdfBgFR7wTxC0+uU=
 github.com/json-iterator/go v0.0.0-20180806060727-1624edc4454b/go.mod h1:+SdeFBvtyEkXs7REEP0seUULqWtbJapLOCVDaaPEHmU=
+github.com/json-iterator/go v1.1.5/go.mod h1:+SdeFBvtyEkXs7REEP0seUULqWtbJapLOCVDaaPEHmU=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/manucorporat/stats v0.0.0-20180402194714-3ba42d56d227 h1:KIaAZ/V+/0/6BOULrmBQ9T1ed8BkKqGIjIKW923nJuo=
 github.com/manucorporat/stats v0.0.0-20180402194714-3ba42d56d227/go.mod h1:ruMr5t05gVho4tuDv0PbI0Bb8nOxc/5Y6JzRHe/yfA0=
