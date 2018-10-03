@@ -14,7 +14,7 @@ require (
 	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/stretchr/testify v1.2.2
-	github.com/thinkerou/favicon v0.0.0-20170710140520-94a442a49da6
+	github.com/thinkerou/favicon v0.1.0
 	github.com/ugorji/go v1.1.1
 	golang.org/x/crypto v0.0.0-20180910181607-0e37d006457b
 	golang.org/x/net v0.0.0-20180826012351-8a410e7b638d

@@ -33,6 +33,7 @@ github.com/stretchr/testify v1.2.2 h1:bSDNvY7ZPG5RlJ8otE/7V6gMiyenm9RtJ7IUVIAoJ1
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/thinkerou/favicon v0.0.0-20170710140520-94a442a49da6 h1:d/LEgOfWe+AlOCz/kzmkvlO+gq9LRGhjSHqt2nx8Muc=
 github.com/thinkerou/favicon v0.0.0-20170710140520-94a442a49da6/go.mod h1:HL7Pap5kOluZv1ku34pZo/AJ44GaxMEPFZ3pmuexV2s=
+github.com/thinkerou/favicon v0.1.0/go.mod h1:HL7Pap5kOluZv1ku34pZo/AJ44GaxMEPFZ3pmuexV2s=
 github.com/ugorji/go v1.1.1 h1:gmervu+jDMvXTbcHQ0pd2wee85nEoE0BsVyEuzkfK8w=
 github.com/ugorji/go v1.1.1/go.mod h1:hnLbHMwcvSihnDhEfx2/BzKp2xb0Y+ErdfYcrs9tkJQ=
 golang.org/x/crypto v0.0.0-20180910181607-0e37d006457b h1:2b9XGzhjiYsYPnKXoEfL7klWZQIt8IfyRCz62gCqqlQ=
