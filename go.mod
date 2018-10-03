@@ -1,7 +1,7 @@
 module github.com/gin-gonic/gin
 
 require (
-	github.com/davecgh/go-spew v0.0.0-20180221232628-8991bc29aa16 // indirect
+	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dustin/go-broadcast v0.0.0-20171205050544-f664265f5a66
 	github.com/gin-contrib/sse v0.0.0-20170109093832-22d885f9ecc7
 	github.com/gin-gonic/autotls v0.0.0-20180426091246-be87bd5ef97b
