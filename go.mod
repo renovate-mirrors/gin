@@ -18,7 +18,7 @@ require (
 	github.com/stretchr/testify v1.2.2
 	github.com/thinkerou/favicon v0.1.0
 	github.com/ugorji/go v1.1.1
-	golang.org/x/crypto v0.0.0-20180927165925-5295e8364332
+	golang.org/x/crypto v0.0.0-20181015095933-0c41d7ab0a0e
 	golang.org/x/lint v0.0.0-20180702182130-06c8688daad7
 	golang.org/x/net v0.0.0-20180826012351-8a410e7b638d
 	golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f
