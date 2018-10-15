@@ -22,7 +22,7 @@ require (
 	golang.org/x/lint v0.0.0-20180702182130-06c8688daad7
 	golang.org/x/net v0.0.0-20180826012351-8a410e7b638d
 	golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f
-	golang.org/x/sys v0.0.0-20180928133829-e4b3c5e90611 // indirect
+	golang.org/x/sys v0.0.0-20181015095947-fa43e7bc11ba // indirect
 	google.golang.org/grpc v1.15.0
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/validator.v8 v8.18.2
