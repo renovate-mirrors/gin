@@ -1,7 +1,7 @@
 module github.com/gin-gonic/gin
 
 require (
-	github.com/campoy/embedmd v0.0.0-20171205015432-c59ce00e0296
+	github.com/campoy/embedmd/v2 v2.0.0
 	github.com/client9/misspell v0.3.4
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dustin/go-broadcast v0.0.0-20171205050544-f664265f5a66
