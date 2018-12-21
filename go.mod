@@ -21,7 +21,7 @@ require (
 	golang.org/x/crypto v0.0.0-20181015023909-0c41d7ab0a0e
 	golang.org/x/lint v0.0.0-20181011164241-5906bd5c48cd
 	golang.org/x/net v0.0.0-20181011144130-49bb7cea24b1
-	golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f
+	golang.org/x/sync v0.0.0-20181221194139-37e7f081c4d4
 	golang.org/x/sys v0.0.0-20181011152604-fa43e7bc11ba // indirect
 	google.golang.org/grpc v1.15.0
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
