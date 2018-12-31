@@ -20,7 +20,7 @@ require (
 	github.com/ugorji/go v1.1.1
 	golang.org/x/crypto v0.0.0-20181015023909-0c41d7ab0a0e
 	golang.org/x/lint v0.0.0-20181011164241-5906bd5c48cd
-	golang.org/x/net v0.0.0-20181011144130-49bb7cea24b1
+	golang.org/x/net v0.0.0-20181220205546-927f97764cc3
 	golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f
 	golang.org/x/sys v0.0.0-20181011152604-fa43e7bc11ba // indirect
 	google.golang.org/grpc v1.15.0
