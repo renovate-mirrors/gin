@@ -40,6 +40,7 @@ github.com/ugorji/go v1.1.1 h1:gmervu+jDMvXTbcHQ0pd2wee85nEoE0BsVyEuzkfK8w=
 github.com/ugorji/go v1.1.1/go.mod h1:hnLbHMwcvSihnDhEfx2/BzKp2xb0Y+ErdfYcrs9tkJQ=
 golang.org/x/crypto v0.0.0-20181015023909-0c41d7ab0a0e h1:IzypfodbhbnViNUO/MEh0FzCUooG97cIGfdggUrUSyU=
 golang.org/x/crypto v0.0.0-20181015023909-0c41d7ab0a0e/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
+golang.org/x/crypto v0.0.0-20190103215441-ff983b9c42bc/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
 golang.org/x/lint v0.0.0-20180702182130-06c8688daad7/go.mod h1:UVdnD1Gm6xHRNCYTkRU2/jEulfH38KcIWyp/GAMgvoE=
 golang.org/x/lint v0.0.0-20181011164241-5906bd5c48cd h1:cgsAvzdqkDKdI02tIvDjO225vDPHMDCgfKqx5KEVI7U=
 golang.org/x/lint v0.0.0-20181011164241-5906bd5c48cd/go.mod h1:UVdnD1Gm6xHRNCYTkRU2/jEulfH38KcIWyp/GAMgvoE=
